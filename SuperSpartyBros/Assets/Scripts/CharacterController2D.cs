@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement; // include so we can load new scenes
+using UnityStandardAssets.CrossPlatformInput; 
 
 public class CharacterController2D : MonoBehaviour {
 
